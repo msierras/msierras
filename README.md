@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Melvin Sierra</h1>
-<h3 align="center"> Cum Laude Graduate from City College of New York | Launching My Career in C++ Software Development </h3>
+<h3 align="center"> Recent Computer Science Cum Laude Graduate from The City College of New York </h3>
+<h3 align="center"> Launching My Career in C++ Software Development </h3>
 
 - 🔭 I’m currently working on [Black-Scholes class implementation](https://github.com/msierras/black_scholes_class)
 
